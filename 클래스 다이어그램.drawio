@@ -213,7 +213,7 @@
         <mxCell id="21kfLAnAe_7e0L7t2O5K-71" value="선반" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-40" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="21kfLAnAe_7e0L7t2O5K-73" value="선반로그(로그넘버)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="21kfLAnAe_7e0L7t2O5K-73" value="선반 로그" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="21kfLAnAe_7e0L7t2O5K-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
