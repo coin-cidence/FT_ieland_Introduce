@@ -79,7 +79,7 @@
         <mxCell id="mZe7ml31kJ0CGUV6WUuX-8" value="food_management_serial(PK)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="21kfLAnAe_7e0L7t2O5K-14">
           <mxGeometry y="26" width="190" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="mZe7ml31kJ0CGUV6WUuX-9" value="smart_shelf_serial(FK)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=1" vertex="1" parent="21kfLAnAe_7e0L7t2O5K-14">
+        <mxCell id="mZe7ml31kJ0CGUV6WUuX-9" value="smart_shelf_serial(FK)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontStyle=0" vertex="1" parent="21kfLAnAe_7e0L7t2O5K-14">
           <mxGeometry y="52" width="190" height="26" as="geometry" />
         </mxCell>
         <mxCell id="mZe7ml31kJ0CGUV6WUuX-10" value="food_name" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="21kfLAnAe_7e0L7t2O5K-14">
