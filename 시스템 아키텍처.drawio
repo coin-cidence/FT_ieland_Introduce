@@ -49,8 +49,11 @@
         <mxCell id="Vc-39KaQgH0quVnFPJcE-62" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.34;dx=26.65;notch=0;rotation=-180;container=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Vc-39KaQgH0quVnFPJcE-5">
           <mxGeometry x="104.5" y="102.96680192205008" width="60" height="37.37319807794981" as="geometry" />
         </mxCell>
-        <mxCell id="Vc-39KaQgH0quVnFPJcE-64" value="Client" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;container=0;" vertex="1" parent="Vc-39KaQgH0quVnFPJcE-5">
-          <mxGeometry x="-14.5" y="65.99999999999994" width="64" height="70" as="geometry" />
+        <mxCell id="Vc-39KaQgH0quVnFPJcE-71" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Device_Compliance.svg;container=0;" vertex="1" parent="Vc-39KaQgH0quVnFPJcE-5">
+          <mxGeometry x="2.5" y="56" width="62" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Vc-39KaQgH0quVnFPJcE-72" value="Client" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;container=0;" vertex="1" parent="Vc-39KaQgH0quVnFPJcE-5">
+          <mxGeometry x="-37.5" y="71.30999999999995" width="64" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Vc-39KaQgH0quVnFPJcE-3" value="" style="group" vertex="1" connectable="0" parent="aSS4Eyh5r4q3BVwhuA5f-28">
           <mxGeometry x="33" y="177" width="286" height="311" as="geometry" />
@@ -121,11 +124,8 @@
             <mxPoint x="563" y="228" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aSS4Eyh5r4q3BVwhuA5f-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Device_Compliance.svg;container=0;" parent="1" vertex="1">
-          <mxGeometry x="138" y="243.00000000000003" width="62" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="aSS4Eyh5r4q3BVwhuA5f-9" value="Client" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;container=0;" parent="1" vertex="1">
-          <mxGeometry x="98" y="258.31" width="64" height="70" as="geometry" />
+        <mxCell id="Vc-39KaQgH0quVnFPJcE-73" value="Client" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;container=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="248.99999999999994" width="64" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
