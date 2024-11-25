@@ -63,8 +63,8 @@
         <mxCell id="HQ-Mrm8u0RWYpgpgq9Vk-43" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="406.25" y="782" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HQ-Mrm8u0RWYpgpgq9Vk-46" value="ThinQ 내 &quot;스마트 선반&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="300" y="682" width="152.5" height="30" as="geometry" />
+        <mxCell id="HQ-Mrm8u0RWYpgpgq9Vk-46" value="ThinQ 내 스마트 선반, 푸디온" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="311.56" y="682" width="152.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HQ-Mrm8u0RWYpgpgq9Vk-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HQ-Mrm8u0RWYpgpgq9Vk-23" target="HQ-Mrm8u0RWYpgpgq9Vk-24" edge="1">
           <mxGeometry relative="1" as="geometry">
